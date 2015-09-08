@@ -1,0 +1,1 @@
+﻿SELECT * FROM ProdutosTotvsView  WHERE CodPro LIKE '%TEL%'
